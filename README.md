@@ -1,3 +1,3 @@
 # Punit-Dethe.github.io
 
-HELLO WORLd
+HELLO WORLD
